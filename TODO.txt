@@ -1,0 +1,17 @@
+** appeler api Pokemon et recuperer tout les infos de chaques pokemon (type / images / nom / faiblesse / forces ...)
+
+** creer input autocomplete qui affiche le nome des pokemons en fonctions des lettres qu'on tape
+
+** afficher le poekom selectionner avec son image et ses infos
+
+** ajouter le pokemon selectionnser dans la liste de 6 pokemon au maximum 
+
+** pouvoir si besoin supprimer le pokemon de la liste pour en ajouter un autrecuperer
+
+** creer une table de faiblesse et forces de la team des 6 pokemons 
+** combien sont fort contre eau 
+    ex: 2 fort contre eau 
+        1 fort contre feu 
+        4 faible contre psy 
+         etc.. 
+         
